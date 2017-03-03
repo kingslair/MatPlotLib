@@ -1,0 +1,14 @@
+*** Installation started 2017/02/28 16:43 ***
+Source: C:\Users\gur44270\Downloads\six-1.7.3.win32-py3.4 (1).exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]six-py3.4
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\six-py3.4]DisplayName=Python 3.4 six-1.7.3
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\six-py3.4]UninstallString="C:\Python34\Removesix.exe" -u "C:\Python34\six-wininst.log"
+200 File Copy: C:\Python34\Lib\site-packages\six.py
+100 Made Dir: C:\Python34\Lib\site-packages\six-1.7.3-py3.4.egg-info
+200 File Copy: C:\Python34\Lib\site-packages\six-1.7.3-py3.4.egg-info\dependency_links.txt
+200 File Copy: C:\Python34\Lib\site-packages\six-1.7.3-py3.4.egg-info\PKG-INFO
+200 File Copy: C:\Python34\Lib\site-packages\six-1.7.3-py3.4.egg-info\SOURCES.txt
+200 File Copy: C:\Python34\Lib\site-packages\six-1.7.3-py3.4.egg-info\top_level.txt
+200 File Copy: C:\Python34\Lib\site-packages\six.pyc
+200 File Copy: C:\Python34\Lib\site-packages\six.pyo
